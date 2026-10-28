@@ -1,6 +1,6 @@
 # Online Retail Sales Dashboard (Tableau)
 
-**▶ [View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/<your-tableau-profile>)**
+**▶ [View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/chinjulin/viz/online_retail_dashboard_17931660619560/Dashboard)**
 
 ![Dashboard](images/dashboard.png)
 
